@@ -55,7 +55,3 @@ void PrintArray(int[] array)
 int[] array1 = new int[8];
 FillArray(array1);
 PrintArray(array1);
-
-
-
-
