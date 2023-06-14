@@ -20,7 +20,7 @@ void WriteLinesCube(int number)
     while (i <= number)
     {
         int cube = i * i * i;
-        Console.WriteLine($"{i,2} | {cube,4}");
+        Console.WriteLine($"{i,2} | {cube,6}");
         i++;
     }
 }
