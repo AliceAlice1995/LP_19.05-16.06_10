@@ -48,7 +48,7 @@ if (k1 == k2)
 }
 
 double[] coord = CountCrossLine(b1, k1, b2, k2);
-Console.Write("Точка пересечения двух прямых -> ");
+Console.Write("Точка пересечения двух прямых: ");
 PrintArray(coord);
 
 
